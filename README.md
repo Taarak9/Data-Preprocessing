@@ -4,5 +4,5 @@
 <!-- Data Transformation -->
 ## Data Reduction
 * Dimensionality Reduction
-    * PCA
+    * PCA: applied to Iris Dataset
     * Reduct computation  
