@@ -1,3 +1,8 @@
-# Machine-Learning
-Implementation of ML algorithms from scratch
-* PCA - Dimensionality Reduction
+# Data Preprocessing
+
+<!-- Data Cleansing -->
+<!-- Data Transformation -->
+## Data Reduction
+* Dimensionality Reduction
+    * PCA
+    * Reduct computation  
