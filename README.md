@@ -4,5 +4,7 @@
 <!-- Data Transformation -->
 ## Data Reduction
 * Dimensionality Reduction
-    * PCA: applied to Iris Dataset
+    * PCA
+          * Transforming the data to a new basis where the dimensions have low covariance and high variance
+          * Applied to the Iris Dataset
     * Reduct computation  
